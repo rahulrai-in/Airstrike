@@ -217,12 +217,12 @@
 
   <ItemGroup>
     <ProjectReference Include="D:\Projects\Airstrike\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
-      <Project>{012fdea9-f755-4718-8a3e-bdc187c78658}</Project>
+      <Project>{215c913a-a581-428f-8c1e-feff0b95c26f}</Project>
       <Name>Assembly-CSharp</Name>
       <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="D:\Projects\Airstrike\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj">
-      <Project>{498997de-d694-47d3-968b-db9a43dfadd7}</Project>
+      <Project>{27217127-f81c-47a5-9107-ea7470643f59}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
       <Private>False</Private>
     </ProjectReference>

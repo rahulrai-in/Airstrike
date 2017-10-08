@@ -113,6 +113,7 @@
     <Compile Include="Assets\CustomScripts\Footprint.cs" />
     <Compile Include="Assets\CustomScripts\ForceUniformScale.cs" />
     <Compile Include="Assets\CustomScripts\GameController.cs" />
+    <Compile Include="Assets\CustomScripts\HideMissile.cs" />
     <Compile Include="Assets\CustomScripts\LevelManager.cs" />
     <Compile Include="Assets\CustomScripts\MathHelpers.cs" />
     <Compile Include="Assets\CustomScripts\OBBMeshIntersection.cs" />

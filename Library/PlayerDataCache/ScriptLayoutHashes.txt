@@ -16,7 +16,7 @@ ff05dcdf90651c3d98a9cad3df5e471e UnityEngine.Timeline.dll:UnityEngine.Timeline.C
 7b848b7feaa524953d09fc1851efa6da UnityEngine.Timeline.dll:UnityEngine.Timeline.PlayableTrack
 c24a21b131bfa67be1162db2cba4b52b UnityEngine.Timeline.dll:UnityEngine.Timeline.TimelineAsset
 6b65f31824988366512541d7c532ee8b Assembly-CSharp.dll:HoloToolkit.Unity.SpatialMapping.ObjectSurfaceObserver
-906d391cbca8f9b49d0fd19fbc52e0b5 Assembly-CSharp.dll:.Helicopter
+fb91528859393593eaf2bfd0261fec68 Assembly-CSharp.dll:.Helicopter
 6be96e34ec56d8306ef9c5afb1661e60 Assembly-CSharp.dll:HoloToolkit.Sharing.Utilities.ManualIpConfiguration
 a7e7543e2a0b972c935fd5bb8bfd1eca Assembly-CSharp.dll:HoloToolkit.Unity.SpatialMapping.RemoveSurfaceVertices
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:HoloToolkit.Unity.SpatialUnderstandingSourceMesh
@@ -257,3 +257,4 @@ c200d5e5157786d95373f6cec9caf166 Assembly-CSharp.dll:HoloToolkit.Unity.SpatialMa
 294210f7e02f750ff0f7733d3ee18691 Assembly-CSharp.dll:HoloToolkit.Sharing.VoiceChat.MicrophoneReceiver
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.NullBehavior
 e0d239beb8d310bbe74a1e00d90cbdc1 Assembly-CSharp.dll:.Destructible
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.HideMissile
