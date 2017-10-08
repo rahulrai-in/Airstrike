@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airstrike", "Airstrike.csproj", "{B82CB397-0B69-30A9-1C61-DF0281214B5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airstrike.Editor", "Airstrike.Editor.csproj", "{FE5247F8-F94C-C29C-8028-109DF701F499}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B82CB397-0B69-30A9-1C61-DF0281214B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82CB397-0B69-30A9-1C61-DF0281214B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82CB397-0B69-30A9-1C61-DF0281214B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82CB397-0B69-30A9-1C61-DF0281214B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE5247F8-F94C-C29C-8028-109DF701F499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5247F8-F94C-C29C-8028-109DF701F499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5247F8-F94C-C29C-8028-109DF701F499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5247F8-F94C-C29C-8028-109DF701F499}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
